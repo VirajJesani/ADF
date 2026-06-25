@@ -1,0 +1,17 @@
+{
+	"name": "ls_onprem_file",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "FileServer",
+		"typeProperties": {
+			"host": "D:\\Azure Data Engineering\\ADF_Project_Files",
+			"userId": "virajjesani111@gmail.com",
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiIwZjI5M2EyYi1mMDBiLTRlZmEtYmY2MC0wYjIxNWEwMThhNDQiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+		},
+		"connectVia": {
+			"referenceName": "VRJ-SelfHosted",
+			"type": "IntegrationRuntimeReference"
+		}
+	}
+}

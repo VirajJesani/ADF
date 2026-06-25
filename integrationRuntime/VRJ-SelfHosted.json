@@ -1,0 +1,6 @@
+{
+	"name": "VRJ-SelfHosted",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}

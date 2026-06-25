@@ -1,0 +1,15 @@
+{
+	"name": "virajdatafactoryproject",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "88012fac-4c3d-472e-9575-cb183c022dc8",
+		"tenantId": "ebf5354a-988e-4a8e-bc83-c173f7149f2a"
+	}
+}
